@@ -1,0 +1,16 @@
+{
+    "id": "b7c99faa-47d4-4280-bf3f-cc710effa05d",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Himanshu Malviya",
+        "homepage": "https://github.com/RocketChat/Apps.UtilitySlashcommands",
+        "support": "N/A"
+    },
+    "name": "Asciiarts",
+    "nameSlug": "asciiarts",
+    "classFile": "AsciiartsApp.ts",
+    "description": "Asciiarts",
+    "implements": []
+}
